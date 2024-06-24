@@ -1,4 +1,3 @@
-// app.jsx
 // src/App.jsx
 
 const App = () => {
